@@ -1,0 +1,15 @@
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/bin/Debug/net6.0/example_004
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/bin/Debug/net6.0/example_004.deps.json
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/bin/Debug/net6.0/example_004.runtimeconfig.json
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/bin/Debug/net6.0/example_004.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/bin/Debug/net6.0/example_004.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.csproj.AssemblyReference.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.AssemblyInfoInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.AssemblyInfo.cs
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.csproj.CoreCompileInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/refint/example_004.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/example_004.genruntimeconfig.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/example_004/obj/Debug/net6.0/ref/example_004.dll
