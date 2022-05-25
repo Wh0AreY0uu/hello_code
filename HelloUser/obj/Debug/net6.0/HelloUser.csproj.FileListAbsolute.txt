@@ -1,0 +1,15 @@
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/bin/Debug/net6.0/HelloUser
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/bin/Debug/net6.0/HelloUser.deps.json
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/bin/Debug/net6.0/HelloUser.runtimeconfig.json
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/bin/Debug/net6.0/HelloUser.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/bin/Debug/net6.0/HelloUser.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.csproj.AssemblyReference.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.AssemblyInfoInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.AssemblyInfo.cs
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/refint/HelloUser.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/HelloUser.genruntimeconfig.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/HelloUser/obj/Debug/net6.0/ref/HelloUser.dll
