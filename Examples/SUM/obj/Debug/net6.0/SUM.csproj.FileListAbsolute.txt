@@ -1,0 +1,15 @@
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/bin/Debug/net6.0/SUM
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/bin/Debug/net6.0/SUM.deps.json
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/bin/Debug/net6.0/SUM.runtimeconfig.json
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/bin/Debug/net6.0/SUM.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/bin/Debug/net6.0/SUM.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.csproj.AssemblyReference.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.AssemblyInfoInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.AssemblyInfo.cs
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.csproj.CoreCompileInputs.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/refint/SUM.dll
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.pdb
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/SUM.genruntimeconfig.cache
+/Users/whoreyou/Desktop/SEMINARS/examples/Examples/SUM/obj/Debug/net6.0/ref/SUM.dll
